@@ -208,7 +208,7 @@ def registracija():
 
 
 ################################################################ -- kreiramo početni label
-login_label = Label(app, text="Rent a car - Prijava.\n Unesite svoje korisničko ime i šifru", font=('bold', 12),padx= 5)
+login_label = Label(app, text="ProjectX - LogIn.\n Unesite svoje korisničko ime i šifru", font=('bold', 12),padx= 5)
 login_label.grid(row = 0, column = 0, columnspan=1,pady = 25,padx=5)
 
 ################################################################# -- kreiramo label i entry za korisničko ime aka username..
